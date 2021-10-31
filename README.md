@@ -29,7 +29,7 @@
 
 ## [Behavioral Patterns](#)
 
-### [Chain of Responsibility Pattern](https://github.com/serhatyamann/DESIGN_PATTERNS/tree/master/Decorator_Pattern)
+### [Chain of Responsibility Pattern](https://github.com/serhatyamann/DESIGN_PATTERNS/tree/master/Chain_of_Responsibility_Pattern)
 
 #### The Chain of Responsibility design pattern avoids coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. This pattern chains the receiving objects and passes the request along the chain until an object handles it.
 
