@@ -2,7 +2,7 @@
 
 #### Design patterns are solutions to software design problems you find again and again in real-world application development. Patterns are about reusable designs and interactions of objects. They are categorized in three groups: Creational, Structural, and Behavioral.
 
-## [Creational Patterns](#)
+## Creational Patterns
 
 ### [Singleton Pattern](https://github.com/serhatyamann/DESIGN_PATTERNS/tree/master/Singleton_Pattern)
 
@@ -18,7 +18,7 @@
 #### A visualization of the classes and objects participating in this pattern.
 ![factory](https://user-images.githubusercontent.com/25529312/139563021-ad0cdde9-5eda-4bc1-95cf-04ed9222e9e6.png)
 
-## [Structural Patterns](#)
+## Structural Patterns
 
 ### [Decorator Pattern](https://github.com/serhatyamann/DESIGN_PATTERNS/tree/master/Decorator_Pattern)
 
@@ -27,7 +27,7 @@
 #### A visualization of the classes and objects participating in this pattern.
 ![decorator](https://user-images.githubusercontent.com/25529312/139563139-1261f29d-af1e-4c81-b078-9802526041a4.png)
 
-## [Behavioral Patterns](#)
+## Behavioral Patterns
 
 ### [Chain of Responsibility Pattern](https://github.com/serhatyamann/DESIGN_PATTERNS/tree/master/Chain_of_Responsibility_Pattern)
 
