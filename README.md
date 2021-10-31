@@ -6,7 +6,7 @@
 
 ### [Singleton Pattern](https://github.com/serhatyamann/DESIGN_PATTERNS/tree/master/Singleton_Pattern)
 
-The Singleton design pattern ensures a class has only one instance and provide a global point of access to it.
+#### The Singleton design pattern ensures a class has only one instance and provide a global point of access to it.
 
-A visualization of the classes and objects participating in this pattern.
+#### A visualization of the classes and objects participating in this pattern.
 ![](https://www.dofactory.com/img/diagrams/net/Singleton.png)
