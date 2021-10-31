@@ -18,3 +18,20 @@
 #### A visualization of the classes and objects participating in this pattern.
 ![factory](https://user-images.githubusercontent.com/25529312/139563021-ad0cdde9-5eda-4bc1-95cf-04ed9222e9e6.png)
 
+## [Structural Patterns](#)
+
+### [Decorator Pattern](https://github.com/serhatyamann/DESIGN_PATTERNS/tree/master/Decorator_Pattern)
+
+#### The Decorator design pattern attaches additional responsibilities to an object dynamically. This pattern provide a flexible alternative to subclassing for extending functionality.
+
+#### A visualization of the classes and objects participating in this pattern.
+![decorator](https://user-images.githubusercontent.com/25529312/139563139-1261f29d-af1e-4c81-b078-9802526041a4.png)
+
+## [Behavioral Patterns](#)
+
+### [Chain of Responsibility Pattern](https://github.com/serhatyamann/DESIGN_PATTERNS/tree/master/Decorator_Pattern)
+
+#### The Chain of Responsibility design pattern avoids coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. This pattern chains the receiving objects and passes the request along the chain until an object handles it.
+
+#### A visualization of the classes and objects participating in this pattern.
+![chain](https://user-images.githubusercontent.com/25529312/139563170-6e278713-120c-44a8-adbb-6291b7767318.png)
