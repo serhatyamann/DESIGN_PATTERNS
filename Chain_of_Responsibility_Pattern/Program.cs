@@ -12,7 +12,7 @@ namespace Chain_of_Responsibility_Pattern
     {
         static void Main(string[] args)
         {
-            Withdraw withdraw = new Withdraw(1, 15000);
+            Withdraw withdraw = new Withdraw(1, 85000);
             Teller teller = new Teller();
             Manager manager = new Manager();
             AreaManager areaManager = new AreaManager();

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton_Pattern", "Single
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain_of_Responsibility_Pattern", "Chain_of_Responsibility_Pattern\Chain_of_Responsibility_Pattern.csproj", "{F04287A8-DB32-49FD-9A6E-640ABE53CE40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory_Method_Pattern", "Factory_Method_Pattern\Factory_Method_Pattern.csproj", "{5F868E03-35E6-44C0-ABAC-39382FB2F17A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F04287A8-DB32-49FD-9A6E-640ABE53CE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F04287A8-DB32-49FD-9A6E-640ABE53CE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F04287A8-DB32-49FD-9A6E-640ABE53CE40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F868E03-35E6-44C0-ABAC-39382FB2F17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F868E03-35E6-44C0-ABAC-39382FB2F17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F868E03-35E6-44C0-ABAC-39382FB2F17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F868E03-35E6-44C0-ABAC-39382FB2F17A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
