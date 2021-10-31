@@ -6,4 +6,4 @@
 
 The Singleton design pattern ensures a class has only one instance and provide a global point of access to it.
 
-(https://www.dofactory.com/img/diagrams/net/Singleton.png)
+![](https://www.dofactory.com/img/diagrams/net/Singleton.png)
