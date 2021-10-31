@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain_of_Responsibility_Pat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory_Method_Pattern", "Factory_Method_Pattern\Factory_Method_Pattern.csproj", "{5F868E03-35E6-44C0-ABAC-39382FB2F17A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator_Pattern", "Decorator_Pattern\Decorator_Pattern.csproj", "{FE62E636-B9B5-4F30-BD2A-62587A1AEB06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5F868E03-35E6-44C0-ABAC-39382FB2F17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F868E03-35E6-44C0-ABAC-39382FB2F17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F868E03-35E6-44C0-ABAC-39382FB2F17A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE62E636-B9B5-4F30-BD2A-62587A1AEB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE62E636-B9B5-4F30-BD2A-62587A1AEB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE62E636-B9B5-4F30-BD2A-62587A1AEB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE62E636-B9B5-4F30-BD2A-62587A1AEB06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
